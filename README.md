@@ -8,3 +8,4 @@ I am using this repository to practice Git and GitHub as part of my Software Ass
 ## Git Practice
 
 I am practicing the local Git workflow using Git Bash and Visual Studio Code.
+This line was added directly from GitHub to practice pulling changes.
