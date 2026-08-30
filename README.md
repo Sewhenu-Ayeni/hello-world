@@ -31,3 +31,24 @@ This is **bold text** and this is *italic text*.
 ```text
 git status
 ```
+Shows the current state of the working directory and staging area.
+
+```bash
+git add -A
+```
+Stages all changes so they are ready to be committed.
+
+```bash
+git commit -m "Commit message"
+```
+Creates a snapshot of the staged changes in the local Git repository.
+
+```bash
+git push
+```
+Uploads local commits to the remote GitHub repository.
+
+```bash
+git pull
+```
+Downloads changes from the remote repository and integrates them into the local branch.
