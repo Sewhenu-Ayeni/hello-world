@@ -9,3 +9,25 @@ I am using this repository to practice Git and GitHub as part of my Software Ass
 
 I am practicing the local Git workflow using Git Bash and Visual Studio Code.
 This line was added directly from GitHub to practice pulling changes.
+
+## Markdown Practice
+
+This is **bold text** and this is *italic text*.
+
+### What I Am Learning
+
+- Git repositories
+- Branches and commits
+- Push and pull
+- Forks and pull requests
+- Markdown
+
+### Useful Link
+
+[Visit UNO](https://www.unomaha.edu)
+
+### Git Command Example
+
+```text
+git status
+```
